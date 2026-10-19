@@ -1,0 +1,13 @@
+# inti
+rdkit>=2023.3.1
+torch>=2.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# visualisasi
+matplotlib>=3.7.0
+
+# opsional
+optuna>=3.4.0        # --tuning
+openpyxl>=3.1.0      # keluaran Excel

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "MOFHAPPY: a coarse-grained string representation for metal-organic frameworks"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "<nama belakang>"
+    given-names: "<nama depan>"
+repository-code: "https://github.com/<user>/MOFHAPPY"
+license: MIT
+year: 2026
+keywords:
+  - metal-organic-framework
+  - molecular-representation
+  - coarse-graining
+  - permutation-invariance
+  - machine-learning
