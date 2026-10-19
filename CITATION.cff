@@ -3,8 +3,8 @@ title: "MOFHAPPY: a coarse-grained string representation for metal-organic frame
 message: "If you use this software, please cite it as below."
 type: software
 authors:
-  - family-names: "<nama belakang>"
-    given-names: "<nama depan>"
+  - family-names: "<dewa wardhana>"
+    given-names: "<achmad nabawi>"
 repository-code: "https://github.com/<user>/MOFHAPPY"
 license: MIT
 year: 2026
