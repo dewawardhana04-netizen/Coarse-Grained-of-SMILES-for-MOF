@@ -1,0 +1,28 @@
+# keluaran pipeline
+hasil*/
+*.npz
+*.pt
+prediksi_*.csv
+ringkas_*.json
+cv*_*.json
+tuning_*.json
+
+# data mentah (terlalu besar untuk git)
+data_siap.csv
+hMOF_CO2_info.csv
+fitur_*.csv
+*.xlsx
+
+# gambar hasil
+*.png
+!res/*.png
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# os
+.DS_Store
